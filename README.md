@@ -1,4 +1,4 @@
-# interactive-bill-manager
+# Interactive Bill Manager
 
 A mini Rust Project.
 
