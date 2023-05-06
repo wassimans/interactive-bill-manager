@@ -25,3 +25,11 @@ interactively.
   the functionality for that menu in isolation.
 - Used a vector to store the bills at stage 1 as it's the easiest way, but a
   hashmap was introduced instead at stages 2 and 3 for more efficient data lookups.
+
+## Running the project
+
+Run the following command in the root directory of the project.
+
+```shell
+  cargo run -q
+```
